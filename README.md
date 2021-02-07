@@ -20,6 +20,5 @@ Execute o projeto:
 </blockquote>
 
 ### Demonstração
-![2021-02-07_17h37_04](https://user-images.githubusercontent.com/42558999/107158828-58f80b00-696b-11eb-9c7d-e8eae20710fd.png)
 ![2021-02-07_17h37_15](https://user-images.githubusercontent.com/42558999/107158875-92307b00-696b-11eb-958a-eb652c53ee95.png)
 ![2021-02-07_17h37_21](https://user-images.githubusercontent.com/42558999/107158888-9fe60080-696b-11eb-9a4f-9f2dada243a4.png)
