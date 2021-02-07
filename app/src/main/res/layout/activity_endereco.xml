@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:layout_marginTop="15dp">
+
+    <TableRow>
+        <TextView
+            android:layout_width="125dp"
+            android:gravity="right"
+            android:padding="3dip"
+            android:text="@string/cep" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/txt_cep"
+            android:text="@string/txt_cep" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="125dp"
+            android:gravity="right"
+            android:padding="3dip"
+            android:text="@string/logradouro" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/txt_logradouro" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="125dp"
+            android:gravity="right"
+            android:padding="3dip"
+            android:text="@string/complemento" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:id="@+id/txt_complemento" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="125dp"
+            android:gravity="right"
+            android:padding="3dip"
+            android:text="@string/bairro" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="@string/txt_bairro"
+            android:id="@+id/txt_bairro" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="125dp"
+            android:gravity="right"
+            android:padding="3dip"
+            android:text="@string/localidade" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="@string/txt_localidade"
+            android:id="@+id/txt_localidade" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="125dp"
+            android:gravity="right"
+            android:padding="3dip"
+            android:text="@string/uf" />
+
+        <TextView
+            android:gravity="left"
+            android:padding="3dip"
+            android:text="@string/txt_uf"
+            android:id="@+id/txt_uf" />
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ViaCEP</string>
+    <string name="mask_cep">99.999-999</string>
+    <string name="eureka_labs_logo">eureka_labs_logo</string>
+    <string name="informe_o_cep">Informe o CEP</string>
+    <string name="cep_mask">99.999-999</string>
+    <string name="consultar">Consultar</string>
+    <string name="cep">CEP:</string>
+    <string name="txt_cep">85.898-000</string>
+    <string name="logradouro">Logradouro:</string>
+    <string name="complemento">Complemento:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="txt_bairro">Centro</string>
+    <string name="localidade">Localidade:</string>
+    <string name="txt_localidade">São José das Palmeiras</string>
+    <string name="uf">UF:</string>
+    <string name="txt_uf">PR</string>
+</resources>
