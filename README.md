@@ -18,3 +18,6 @@ Execute o projeto:
 <blockquote>
 <p>A primeira execução irá demorar, pois a IDE irá montar e instalar o APK no dispositivo.</p>
 </blockquote>
+
+### Demonstração
+![2021-02-07_17h37_04](https://user-images.githubusercontent.com/42558999/107158828-58f80b00-696b-11eb-9c7d-e8eae20710fd.png)
